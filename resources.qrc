@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Automation" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
